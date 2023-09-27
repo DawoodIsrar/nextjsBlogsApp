@@ -1,0 +1,27 @@
+.mainnav{
+  list-style: none;
+  background:  #1C3A27;
+  color: #fff;
+  height: 50px;
+  margin-top: 0;
+  gap: 150px;
+  display: flex;
+  justify-content: flex-end;
+}
+.mainnav li{
+  margin: 10px;
+}
+.blogs{
+  /* max-width: 30%; */
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.blog{
+ 
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: block;
+}
